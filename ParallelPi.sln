@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelPi", "ParallelPi\ParallelPi.csproj", "{0D195E59-5E48-4443-BAB2-E0674E7953D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelPi.spec", "ParallelPi.spec\ParallelPi.spec.csproj", "{93898BC0-83DF-4061-8F05-EA8BE204A15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D195E59-5E48-4443-BAB2-E0674E7953D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D195E59-5E48-4443-BAB2-E0674E7953D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D195E59-5E48-4443-BAB2-E0674E7953D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D195E59-5E48-4443-BAB2-E0674E7953D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93898BC0-83DF-4061-8F05-EA8BE204A15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93898BC0-83DF-4061-8F05-EA8BE204A15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93898BC0-83DF-4061-8F05-EA8BE204A15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93898BC0-83DF-4061-8F05-EA8BE204A15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
